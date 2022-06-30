@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am young sam.  
+I am BackEnd Developer.   
+I am BackEnd Leader.   
+I am All rounder.   
+I am handsome.   
+
+
+
 <!--
 **blueloveh/blueloveh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
