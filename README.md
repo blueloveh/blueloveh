@@ -1,11 +1,12 @@
 <div align="center">
+
 ### Hi there 👋
 
 I am young sam.  
 I am BackEnd Developer.   
 I am BackEnd Leader.   
 I am All rounder.   
-I am handsome.   
+I am handsome.📸   
 
 
 ### 🛠  Back End Skill  🛠
