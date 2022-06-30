@@ -7,6 +7,8 @@ I am All rounder.
 I am handsome.   
 
 
+<img src="https://img.shields.io/badge/Larevel-3766AB?style=flat-square&logo=Laravel&logoColor=white"/></a>&nbsp 
+
 
 <!--
 **blueloveh/blueloveh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
